@@ -1,0 +1,39 @@
+title: "Andrés — Product & Transformation"
+description: >-
+  I help organizations bring their strategy to life, from defining what needs
+  to be built to making sure it delivers real value for the people who use it.
+url: "https://andreszocchi-dotcom.github.io"
+baseurl: ""
+lang: en-US
+author: "Andrés"
+timezone: America/Los_Angeles
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Work Experience
+    url: /work-experience/
+  - title: Contact
+    url: /contact/
+exclude:
+  - README.md
+  - PLAN.md
+  - Gemfile
+  - Gemfile.lock
+  - attached_assets
+  - node_modules
+  - vendor
+  - .cache
+  - .local
+  - .conversation
+  - .git
+  - .gitignore
+  - .replit
+  - .replitignore
+  - replit.md

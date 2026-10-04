@@ -1,0 +1,12 @@
+# Jekyll build output and local dependencies
+_site/
+.jekyll-cache/
+.sass-cache/
+vendor/
+
+# Replit workspace state and source uploads
+.DS_Store
+.conversation/
+.local/
+.cache/
+attached_assets/

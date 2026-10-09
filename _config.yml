@@ -17,6 +17,8 @@ navigation:
     url: /
   - title: About
     url: /about/
+  - title: Projects
+    url: /projects/
   - title: Work Experience
     url: /work-experience/
   - title: Contact
@@ -32,6 +34,7 @@ exclude:
   - .cache
   - .local
   - .conversation
+  - Change1.md
   - .git
   - .gitignore
   - .replit

@@ -1,0 +1,17 @@
+- title: "Countdown APP"
+  description: >-
+    A birthday countdown showing the remaining time and a date reminder. Built
+    for an Intro to Coding Class.
+  link: "https://birthday-countdown-andreszocchi.replit.app/"
+
+- title: "Trivia App"
+  description: >-
+    A six-question trivia game about one person's places, dates, and life
+    stories, with a top-scorers list. Built for an Intro to Coding Class.
+  link: "https://andres-zocchi-trivia.replit.app/"
+
+- title: "Expense Tracker"
+  description: >-
+    An expense tracker for adding entries and reviewing a ledger by category
+    and date. Built for an Intro to Coding Class.
+  link: "https://expense-tracker-lab-andreszocchi.replit.app/"

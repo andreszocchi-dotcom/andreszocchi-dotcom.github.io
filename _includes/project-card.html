@@ -1,0 +1,12 @@
+<article class="project-entry">
+  <h2>{{ include.project.title | escape }}</h2>
+  <p class="project-description">{{ include.project.description | default: "[Description not provided]" | escape }}</p>
+
+  <p class="project-link">
+    {% if include.project.link and include.project.link != "" %}
+      <a href="{{ include.project.link | escape }}">Visit {{ include.project.title | escape }}</a>
+    {% else %}
+      <span class="project-placeholder">[Link not provided]</span>
+    {% endif %}
+  </p>
+</article>

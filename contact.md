@@ -11,5 +11,9 @@ permalink: /contact/
 {: .page-title}
 
 <div class="prose">
-  <p><strong>Placeholder:</strong> Add a public contact method here.</p>
+  <ul>
+    <li><a href="mailto:andres.zocchi97@gmail.com">andres.zocchi97@gmail.com</a></li>
+    <li><a href="mailto:andreszocchi@berkeley.edu">andreszocchi@berkeley.edu</a></li>
+    <li><a href="https://www.linkedin.com/in/andreszocchi/">LinkedIn profile</a></li>
+  </ul>
 </div>
